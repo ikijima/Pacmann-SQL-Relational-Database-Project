@@ -1,0 +1,101 @@
+user_id,email,name,username,password,city_id,phone,role,created_at
+1,kusumomelinda@example.org,"Drs. Raisa Oktaviani, S.I.Kom",bakionosusanti,aw0Ac_Gp*_,3172,+62 (30) 152-5578,seller,2024-01-22 19:47:05.261694
+2,lasmono49@example.org,"Edi Prakasa, S.I.Kom",rajasakani,@0Xc&1Oq*r,1375,+62 (0580) 146 3294,bidder,2024-05-29 06:57:20.765331
+3,sihombingopan@example.net,"drg. Cawuk Haryanti, S.I.Kom",hendri72,$6TPUTWlS9,1375,+62 (327) 936-5157,seller,2024-10-12 10:24:30.117671
+4,puspasarilukita@example.net,"Eko Wijaya, S.Pt",nwinarno,6x+O^@H(!Y,3171,0864115907,bidder,2024-06-12 02:32:13.264261
+5,kunthara82@example.org,"Ir. Gina Nuraini, S.Psi",taufiksalahudin,(WR7zt^wb4,3172,+62 (662) 808 1373,bidder,2024-01-15 07:53:14.380460
+6,amelia30@example.net,Kamaria Andriani,maulanarahmat,#(4mGu1w#4,1375,+62-020-078-8864,seller,2024-07-18 12:00:15.449227
+7,gandewanashiruddin@example.com,Calista Tampubolon,laksananapitupulu,E9D2bv+l%K,3174,0879977601,bidder,2024-10-08 21:29:53.614757
+8,pranawausamah@example.org,Hj. Samiah Laksita,kasiran39,VC+8qqRvE9,3471,+62 (015) 922-3760,bidder,2024-06-21 11:52:32.317466
+9,prayogo05@example.com,Leo Mustofa,pandunugroho,7+ZXRD*a!J,5171,+62-843-418-8677,both,2024-02-21 22:51:47.095932
+10,anggriawanraharja@example.org,dr. Galuh Puspasari,kuswoyoeja,)Cq1xUxF26,6472,+62-20-636-8082,bidder,2024-05-16 16:34:27.807732
+11,melanidarsirah@example.com,Digdaya Megantara,hutapeabaktiono,G%2kWevQqz,3175,+62 (011) 796 1663,both,2024-11-03 20:12:41.555972
+12,dnapitupulu@example.org,"Cahya Firgantoro, M.Pd",leo79,$0gMOduFn9,3175,+62 (918) 389 0863,both,2024-10-10 21:01:12.434464
+13,alambanalatupono@example.com,Ella Iswahyudi,yprakasa,Ag7Ke&OGp+,3573,+62-0923-914-5089,both,2024-01-19 05:55:06.268217
+14,halimulya@example.org,"Bella Dabukke, M.TI.",arisnasyiah,gv3Xt+Wy^%,1371,+62 (59) 095-4979,bidder,2024-04-01 12:34:57.067453
+15,prima03@example.com,Ida Pratiwi,puwais,$3MiNYmzuY,5171,+62 (080) 048-0059,seller,2024-01-27 23:11:59.703079
+16,puspagunawan@example.com,Danuja Hakim,pangestuzaenab,5nWwj%&g&3,3172,+62-629-934-6028,bidder,2024-10-16 02:52:46.135832
+17,mmandasari@example.net,"Tgk. Diana Utama, S.Gz",daru39,X@9D(xQZYs,3471,088 226 3179,both,2024-04-29 02:35:38.055562
+18,lasmonohutasoit@example.net,Putri Hidayat,sihombingdarijan,@(M7Dlx6Wl,3174,(047) 776 0927,both,2024-04-19 21:30:37.603555
+19,amirajata@example.com,Michelle Nasyiah,harjalatupono,UPe_9CMoj6,3471,+62 (023) 172-4215,both,2024-10-01 06:17:41.531588
+20,xsalahudin@example.com,Timbul Sitorus,galangrahayu,7dfOtVga%+,7371,(0795) 263 0652,bidder,2024-06-03 00:35:41.976054
+21,jaeman98@example.com,Maria Latupono,bpermadi,B^5hPnyG_+,1371,+62 (0482) 525 5613,both,2024-10-31 08:10:35.233363
+22,lhutagalung@example.net,"Lala Ardianto, S.H.",sihombingcagak,+vZDiEXsd5,3172,+62-0641-604-6359,both,2024-10-13 11:28:27.041100
+23,salwa60@example.org,Kiandra Suryatmi,gandewa02,yC2(9QsDh(,3171,(084) 011-3960,both,2024-04-15 20:06:55.953532
+24,amarpaung@example.com,"Puti Yance Ramadan, S.Sos",wagerajata,N+6HMy)cel,3273,+62 (010) 741-7102,seller,2024-07-23 03:22:04.762153
+25,ajanuar@example.net,"Carla Sitompul, S.Pd",uwinarno,0Rx1Bt6v+M,7371,+62 (002) 988 7398,seller,2024-03-01 00:42:53.023390
+26,gatotsudiati@example.org,Drs. Nova Budiman,wardayanababan,$rG4DwbM&$,3578,+62-011-353-9433,bidder,2024-01-12 16:04:48.661282
+27,dipaprasetya@example.org,Zalindra Nugroho,psamosir,uLZVVgp04^,6471,+62 (0478) 604 1036,seller,2024-02-18 22:19:23.674340
+28,ilyasmahendra@example.com,"Titi Mayasari, S.Pd",mahfudlailasari,T_ro9bIagt,6472,+62 (040) 372 0805,seller,2024-03-09 17:12:50.248791
+29,cahyo08@example.org,Ifa Pudjiastuti,sabri47,+6+F)W&I_o,3578,(085) 263-0665,seller,2024-10-06 00:43:40.376402
+30,januardarmana@example.org,Zizi Laksita,lwulandari,*1roNyQK&D,7371,+62 (0491) 659 3874,bidder,2024-04-08 03:31:26.440933
+31,ulatupono@example.com,Bancar Mayasari,ysuryono,s*1Wz3Lic3,3175,+62-0958-734-8352,both,2024-09-22 06:26:37.257236
+32,karman75@example.net,Satya Pangestu,ohartati,W1khQtPx_D,5171,+62 (43) 985-1442,both,2024-06-11 12:38:30.690821
+33,pratiwireksa@example.org,"Lili Kuswandari, S.Gz",qhastuti,R14d(YzN+3,7371,+62-042-408-4344,both,2024-07-27 17:33:32.486190
+34,tsimanjuntak@example.net,Salwa Wahyudin,idongoran,3)93+KAp5i,3573,(0592) 191-7111,bidder,2024-10-16 00:52:08.443255
+35,haryantibagiya@example.com,dr. Puji Sihombing,xlestari,o3ibMPgX^G,3172,+62 (0597) 275 7721,seller,2024-06-28 07:36:37.096008
+36,garda29@example.org,Dr. Irma Situmorang,aaryani,@L6UkT!ld$,6471,+62 (074) 501-5109,bidder,2024-01-31 16:19:22.347589
+37,uagustina@example.net,"R.A. Ika Nuraini, S.Ked",ikinhalim,$9WRIWaxVI,3171,(002) 611-6903,both,2024-06-26 03:05:53.865076
+38,ibunwastuti@example.org,Gatra Susanti,qlestari,T7LGDp4d@2,3471,+62 (27) 384 0192,both,2024-07-21 11:00:06.362539
+39,abyasa95@example.com,"Bahuraksa Widodo, S.Farm",kpuspita,)OU5S$n&l6,3578,+62-0331-090-2393,seller,2024-05-01 23:33:27.168005
+40,keisha57@example.com,Kasiyah Maryadi,artanto64,9jZ&EEel(!,3173,0836950813,seller,2024-03-09 21:00:15.965750
+41,ikhsanprasetyo@example.com,"R. Asmadi Sitompul, M.Kom.",intan86,+6cIvnYpEn,3173,+62 (14) 076 5972,seller,2024-09-16 07:46:47.397254
+42,balasaptono@example.org,Alika Farida,mnababan,hu4B$lzkW_,3471,+62 (0245) 660 8100,both,2024-01-16 06:40:09.056175
+43,danujahutagalung@example.com,Ina Dabukke,cfujiati,#g5Oo1f(Z8,7371,+62 (055) 783 7491,seller,2024-06-17 19:56:31.284935
+44,ymandala@example.net,Dr. Jono Sitorus,limanfujiati,)8nTTWSldj,3173,083 421 2617,bidder,2024-05-13 20:28:57.016915
+45,mprasetyo@example.org,Zizi Maheswara,banara23,5i3JcRLs#1,3173,(061) 978 1681,both,2024-10-28 18:57:26.081176
+46,anastasia64@example.com,"Drajat Gunarto, S.H.",galak21,!)7*j(z7E8,3175,(0072) 475-9500,bidder,2024-03-22 16:00:27.120318
+47,utamaganjaran@example.org,Juli Anggriawan,iusamah,W2)S^cfJ!v,3273,+62-045-000-2277,both,2024-05-30 07:11:49.022853
+48,fhardiansyah@example.net,H. Darmaji Saragih,viman98,Y1)d9SPskN,3578,+62 (33) 674 2674,seller,2024-03-12 12:50:33.748505
+49,prabawa76@example.net,"dr. Cemani Kurniawan, S.IP",faizah34,!(8LLbp31M,6472,(0748) 066 5815,bidder,2024-01-28 21:20:54.749670
+50,lestarigaman@example.net,"Dr. Gina Nuraini, S.Farm",dagelhakim,68fN7*e1_x,3173,+62-97-791-3191,bidder,2024-09-01 08:30:49.840070
+51,lpurnawati@example.net,Dina Suryatmi,afujiati,z0G1KQejQ_,1371,+62-677-674-4328,seller,2024-03-10 05:21:32.379269
+52,kartanasyidah@example.org,Tgk. Jatmiko Puspasari,palastriade,%##j2DiT$G,3573,0855803691,both,2024-01-08 21:28:55.420298
+53,yosef74@example.net,"Lintang Pertiwi, M.Ak",ydongoran,6cevKSal#d,3573,0890078209,bidder,2024-09-07 19:48:41.814657
+54,ppranowo@example.net,"T. Satya Kusmawati, S.IP",rahmatsetiawan,#s#5fWgw9H,3573,+62 (302) 604-5094,seller,2024-05-22 08:46:35.806878
+55,hutagalunglala@example.net,"dr. Puti Firmansyah, S.Pt",upratama,pzKz&_Hs&2,3471,+62 (682) 732 6311,bidder,2024-03-12 18:49:53.713486
+56,pnuraini@example.net,Aisyah Budiman,qhalimah,(!C5wG0Ut7,1375,(0083) 832-2617,seller,2024-08-06 13:19:13.730553
+57,nhutapea@example.com,Hj. Salsabila Suartini,saktiardianto,H$T59AZof2,3172,+62 (932) 260 7381,both,2024-09-25 23:52:09.389465
+58,nasyiahibrani@example.net,"Ajimat Salahudin, S.Psi",taufikrahayu,p+0WLd$V)l,3171,+62 (0525) 574-9891,seller,2024-02-28 20:14:40.554908
+59,unggullestari@example.net,"Harsanto Wijayanti, S.Farm",indra50,%^73KShTS2,3172,+62-0422-834-6002,both,2024-09-07 18:09:56.913539
+60,pbudiyanto@example.net,Ikin Lestari,znuraini,ix9e*Hig!M,3172,+62 (61) 949-2233,bidder,2024-06-16 01:29:41.278427
+61,lestarikiandra@example.com,Bagiya Winarsih,cwinarsih,Oqi72Ai$)Q,3578,+62 (93) 687 6357,both,2024-02-06 10:38:26.053744
+62,maryadicahyadi@example.net,Damar Nugroho,udaprakasa,k74NPa&1(2,3171,+62-0689-919-9793,seller,2024-09-06 15:02:01.309580
+63,yolandakairav@example.com,Tgk. Zelaya Utami,mitrawahyuni,q&ni6!Ab9a,1375,(0573) 924 4266,bidder,2024-04-02 23:49:48.219745
+64,prasetyolabuh@example.net,Atma Halim,zamira21,F14XhmdC)V,3175,(0551) 298 2150,seller,2024-06-21 05:11:52.223792
+65,putimaulana@example.com,Yessi Usamah,dprakasa,_Pc5RfoP!&,6472,+62-0020-421-5277,both,2024-05-05 04:26:18.514845
+66,nhabibi@example.org,R.M. Wardi Laksmiwati,edi14,R9XPQCm%+o,3174,+62 (89) 385 7269,bidder,2024-06-17 12:47:46.778811
+67,yunita75@example.org,Siska Latupono,puspasarichandra,1Y0BZr+V6$,3273,+62-850-859-9048,seller,2024-01-15 02:01:38.443761
+68,bakimansaefullah@example.org,Dipa Tarihoran,halimwakiman,(oFOwVql5n,3175,(011) 982 5243,seller,2024-10-03 15:04:03.401941
+69,napitupulukariman@example.org,Tgk. Wage Marpaung,ilyasprasetyo,b7XTxC1B&i,1375,+62 (55) 317 7573,bidder,2024-09-22 19:29:47.901704
+70,endahtarihoran@example.com,Jarwa Uwais,agushutapea,wp)RKK5j!6,3174,+62 (13) 615 5421,both,2024-10-18 13:18:15.265669
+71,elon01@example.net,Mutia Wijayanti,keziahasanah,)!8EK)lvVR,6472,+62 (14) 058 0550,bidder,2024-01-14 02:39:39.340896
+72,zhutapea@example.org,Eka Nugroho,emilwijaya,+6h%pDvRp_,3175,(045) 678-0749,seller,2024-02-05 08:47:32.671907
+73,pia68@example.net,Labuh Handayani,natsirbakda,qw0VcdC&9(,3573,+62 (546) 109 3820,bidder,2024-07-18 09:07:39.096762
+74,wahyudinkartika@example.com,Ulva Hutagalung,hutagalungwarsita,*jrYzSehp5,1375,+62-040-066-8901,both,2024-07-02 09:14:03.543448
+75,safitrijoko@example.org,"Ulya Uwais, S.H.",amalia27,&f66JoBR1$,1375,+62-76-297-8650,seller,2024-06-09 15:00:52.063931
+76,nrahayu@example.net,"Vino Budiman, S.Pt",tkuswoyo,@yEa8wye6K,3578,+62 (0801) 111 6407,bidder,2024-06-13 01:59:13.249804
+77,garanandriani@example.com,"Taswir Siregar, M.Kom.",gunartodarmana,%Q8^VfVuif,5171,+62 (0537) 910 0616,bidder,2024-01-19 16:38:58.753922
+78,vjanuar@example.net,Elvina Waluyo,hsuryatmi,*9O9Iea_qf,1375,(069) 028 2241,both,2024-02-17 20:38:34.267107
+79,najam31@example.net,Unjani Mardhiyah,ausada,_U6Uc+Gw^_,3273,+62 (0090) 403 3553,both,2024-06-10 23:08:00.003509
+80,nabilanainggolan@example.com,"Cut Paulin Lazuardi, S.Farm",mahendraartawan,ZLo*9eWb)_,3471,086 109 4509,seller,2024-02-02 21:53:24.481592
+81,tpudjiastuti@example.com,Garda Marpaung,npangestu,$esUaQAd_8,6471,+62 (080) 231 8369,both,2024-01-19 22:14:55.932592
+82,pudjiastutielvin@example.com,Farah Prasetyo,fprasetyo,@eC3JTTd!K,3175,+62-73-176-7096,seller,2024-05-27 22:28:39.157398
+83,daru26@example.org,Hj. Ira Sudiati,anggabayawaskita,#fkK48H^)^,6472,+62-026-321-1932,bidder,2024-06-29 21:15:38.610077
+84,alambana73@example.org,Puti Sakura Marpaung,mmarpaung,#1vZhcPmsJ,3173,+62-99-769-7676,seller,2024-06-12 23:19:45.482353
+85,mharyanto@example.com,Tirta Pratiwi,damumaheswara,!k3HyjCXff,7371,+62-0596-640-1931,both,2024-09-26 04:11:07.170475
+86,gprabowo@example.net,Hardana Napitupulu,ysamosir,44Tjz4AS)j,3174,(046) 116 4377,bidder,2024-04-22 15:28:25.890551
+87,nmanullang@example.com,Hani Permata,hafshahmaulana,*yZWN@ueB0,3578,+62-600-860-2212,bidder,2024-08-12 05:29:38.911602
+88,bpermadi@example.com,"Dr. Ayu Pudjiastuti, M.TI.",budimanpatricia,hxL49Jo0O_,3578,087 018 1804,bidder,2024-02-04 00:07:43.664562
+89,liman03@example.com,Joko Kuswandari,onurdiyanti,&d7n3qIsvs,6472,081 851 1930,seller,2024-04-05 17:18:38.044062
+90,usadaeva@example.org,Darman Sitorus,daliono51,Zr5GPjL8_6,1375,082 617 9191,seller,2024-08-30 19:04:10.549084
+91,saragihhafshah@example.net,Vino Winarsih,lembah51,MJE2EHnBv!,5171,+62 (0683) 602-1253,bidder,2024-09-15 05:35:03.672843
+92,ssiregar@example.net,Dt. Daryani Utama,yusufsitorus,!d6l9WERj$,5171,+62 (225) 740 1345,seller,2024-04-19 23:21:48.652010
+93,kuswandarizulfa@example.net,"Tomi Tamba, M.Ak",ganjarannatsir,_o^K@aea5H,3173,0877201951,bidder,2024-05-02 02:29:57.014001
+94,siregaryusuf@example.net,Emil Maryati,gunartonadia,wLV8^l!s&3,3273,+62 (0618) 984 1198,bidder,2024-10-28 00:55:04.656270
+95,wulan34@example.net,Kardi Nababan,warsita31,rhI^lwK0!9,3573,+62 (084) 926 7914,both,2024-04-21 12:21:07.451496
+96,hariyahcawisono@example.net,Endra Hutapea,marbuncahyanto,M$X7QZmX*z,3173,+62 (008) 464-5261,bidder,2024-07-10 20:07:06.957824
+97,gabriella63@example.com,"Puti Nova Yolanda, S.Ked",dongoranmahesa,#5cZprncFD,7371,+62 (0048) 528 5811,bidder,2024-09-26 18:52:24.935522
+98,zamirasantoso@example.net,Zelaya Simbolon,edi95,#65FZHOl#6,3273,(0991) 983 2628,bidder,2024-09-01 17:17:25.460366
+99,maulanakemal@example.org,"Puput Situmorang, M.Ak",ajenghutasoit,ex^D40OsVq,3171,(057) 051-5679,bidder,2024-09-27 21:19:16.403661
+100,salahudindaliono@example.net,Tgk. Novi Anggriawan,prasetyamartani,7%8aE8wv)N,1375,+62-010-422-9518,seller,2024-01-23 08:19:41.075085
